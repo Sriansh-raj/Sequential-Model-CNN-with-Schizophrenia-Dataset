@@ -1,0 +1,1 @@
+# Sequential-Model-CNN-with-Schizophrenia-Dataset
